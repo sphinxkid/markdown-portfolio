@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Video Games
+  - Dota 2
+  - Chrono Trigger
+  - Monster Hunter
